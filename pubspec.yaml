@@ -1,7 +1,7 @@
 name: dart_exercise_2
 description: Second dart hybrid exercise application.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/Hyde0038/mad9135_Dart_Hybrid2
 
 environment:
   sdk: ^3.6.1
